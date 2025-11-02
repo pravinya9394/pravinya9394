@@ -17,13 +17,13 @@ I love optimizing APIs, building asynchronous microservices, and solving real-wo
 
 ### 📊 My Developer Stats
 
-#### 🧩 GitHub Activity
-![Pravinya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravinya9394&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravinya9394&layout=compact&theme=tokyonight)
-
 #### 💡 LeetCode Progress
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Pravinya9394?theme=dark&font=Roboto)](https://leetcode.com/Pravinya9394/)
 
+
+#### 🧩 GitHub Activity
+![Pravinya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravinya9394&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravinya9394&layout=compact&theme=tokyonight)
 ---
 
 ### 🏆 Achievements
