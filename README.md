@@ -17,8 +17,11 @@ I love optimizing APIs, building asynchronous microservices, and solving real-wo
 
 ### 📊 My Developer Stats
 
-#### 💡 LeetCode Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Pravinya9394?theme=dark&font=Roboto)](https://leetcode.com/Pravinya9394/)
+#### 💡 Coding Profiles  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Pravinya9394/)
+[![Code360](https://img.shields.io/badge/Code360-Profile-orange?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/20f57de4-0099-4071-b12c-5c4307818b16)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-gfg-username/practice/)
+
 
 
 #### 🧩 GitHub Activity
